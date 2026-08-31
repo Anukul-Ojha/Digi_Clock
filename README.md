@@ -10,12 +10,12 @@ A beautiful, responsive digital clock application that displays real-time inform
 
 - *Real-time Clock Display* - Shows your local time with live updates every second
 - *World Time Zones* - Simultaneously displays time for 6 major cities:
-  - 🗽 New York (America/New_York)
-  - 🇬🇧 London (Europe/London)
-  - 🗼 Tokyo (Asia/Tokyo)
-  - 🕌 Dubai (Asia/Dubai)
-  - 🦘 Sydney (Australia/Sydney)
-  - 🥖 Paris (Europe/Paris)
+  - New York (America/New_York)
+  - London (Europe/London)
+  - Tokyo (Asia/Tokyo)
+  - Dubai (Asia/Dubai)
+  - Sydney (Australia/Sydney)
+  - Paris (Europe/Paris)
 - *Modern UI Design* - Glassmorphism effects with gradient backgrounds
 - *Responsive Layout* - Fully responsive design that works on all devices
 - *24-Hour Format* - Clean, professional time display
